@@ -1,0 +1,16 @@
+.field{
+    position: relative;
+    border: none;
+   transform: translate(25rem,10rem);
+}
+.field button{
+    width:15rem;
+    height:2rem;
+   
+
+}
+.field_inner{
+    border: solid 2px black;
+    width:15rem;
+    height: 100%;
+}
